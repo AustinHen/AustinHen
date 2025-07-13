@@ -10,7 +10,7 @@ Here is some code that I wrote. Click on the links to read more detailed project
 
 - [Web Browser Engine:](https://github.com/AustinHen/Web-Browser) A web browser written from scratch. Handles networking, page rendering, and more.
 
-- [PyTorch Visualizer:](https://github.com/AustinHen/pytorch-net-visualizer-) Creates graphs of the topology of neural networks.
+- [PyTorch Visualizer:](https://github.com/AustinHen/pytorch-net-visualizer-) Graphs the topology of neural networks.
 
 - [Video Playback Speed Editor](https://github.com/AustinHen/VideoPlaybackSpeed) Browser plugin that lets you change playback speeds to anything you want - I  made this because existing plugins did not work with Echo360 (my school's lecture recording platform)
 
